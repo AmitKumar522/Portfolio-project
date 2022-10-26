@@ -14,4 +14,4 @@ This is my first Portfolio landing page created with HTML and CSS,
 
 ## Badges
 
-![](https://img.shields.io/badge/PORT-FOLIO-red)
+ ![](https://img.shields.io/badge/PORT-FOLIO-red)   
